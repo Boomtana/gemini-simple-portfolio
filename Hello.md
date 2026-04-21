@@ -4,4 +4,4 @@ This is a sample project
 
 Test !
 
-Updated by Gemini CLI.
+This is a new line!
